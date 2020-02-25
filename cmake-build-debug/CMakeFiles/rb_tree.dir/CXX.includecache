@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sanjay/CLionProjects/rb_tree/main.cpp
+iostream
+-
+rb_tree.h
+/Users/sanjay/CLionProjects/rb_tree/rb_tree.h
+
+/Users/sanjay/CLionProjects/rb_tree/rb_tree.h
+iostream
+-
+
